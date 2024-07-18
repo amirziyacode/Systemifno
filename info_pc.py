@@ -1,6 +1,7 @@
 import time, os, sys, socket, requests
-import platform, re, uuid
+import platform, re, uui
 
+# THIS APP JUST FOR FUN  !!!
 try:
     from colorama import Fore
 except:
