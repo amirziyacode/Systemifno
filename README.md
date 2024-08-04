@@ -1,4 +1,4 @@
-![Mac-Terminal-app-icon](https://github.com/user-attachments/assets/67dd2224-84c2-46bd-8d90-b0abc1906128)
+![Screenshot 2024-08-04 085105](https://github.com/user-attachments/assets/9518a2ef-8fa5-44b6-a8ed-5d8182af5fc5)![Mac-Terminal-app-icon](https://github.com/user-attachments/assets/67dd2224-84c2-46bd-8d90-b0abc1906128)
 [![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
 [![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
 
@@ -12,3 +12,8 @@ I wrote this program at the age of 15 😁. If there are any issues with the cod
 
 
 # Preview   
+![Screenshot 2024-08-04 085105](https://github.com/user-attachments/assets/c6e032d2-d619-4b01-9867-f0a530a45fe7)
+![Screenshot 2024-08-04 085653](https://github.com/user-attachments/assets/ca120f1e-ea5c-42ff-872f-6b0d0a2a56c9)
+![Screenshot_2024-08-04_01-28-10](https://github.com/user-attachments/assets/5789838f-3006-430a-9511-869d82970bb4)
+
+
