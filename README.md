@@ -3,3 +3,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
 
 # INFO_APP
+ - information about your pc
+ -  Find ip
+ -   Information of Internet (only on windows)
+ -    ========================================
+
+ -    
