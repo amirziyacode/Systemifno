@@ -21,7 +21,7 @@ I wrote this program at the age of 15 😁. If there are any issues with the cod
 
 
 
-#Linux
+# Linux
 ![Screenshot_2024-08-04_01-28-10](https://github.com/user-attachments/assets/5789838f-3006-430a-9511-869d82970bb4)
 
 
